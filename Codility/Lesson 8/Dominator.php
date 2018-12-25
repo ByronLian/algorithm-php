@@ -46,7 +46,6 @@ function solution($A)
             $max_el = $el;
             $max_count = count($storage -> $el);
         }
-        // print($max_count);
     }
 
     // If every element has equal count , e.g [1, 2, 3] or [-1, -2, 1]
