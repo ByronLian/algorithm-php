@@ -6,12 +6,12 @@
 // use a object hash to record data and data index
 //
 // e.g.
-// nums: [2, 5, 7, 11]
-// target: 9
+// $nums: [2, 5, 7, 11]
+// $target: 9
 //
-// loop 1: 9-2 = 7, hash ={}, not found so continue
-// loop 2: 9-5 = 4, hash ={2:0}, not found so continue
-// loop 3: 9-7 = 2, hash ={2:0, 5:1}, found "2" so return [0, 2]
+// loop 1: 9-2 = 7, $hash ={}, not found so continue
+// loop 2: 9-5 = 4, $hash ={2:0}, not found so continue
+// loop 3: 9-7 = 2, $hash ={2:0, 5:1}, found "2" so return [0, 2]
 
 class Solution
 {
