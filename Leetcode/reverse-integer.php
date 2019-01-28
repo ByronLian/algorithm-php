@@ -1,5 +1,5 @@
 <?php
-// https://leetcode.com/problems/reverse-integer
+// https://leetcode.com/problems/reverse-integer/
 // Runtime: 16 ms, faster than 100.00% of PHP online submissions for Reverse Integer.
 
 class Solution
